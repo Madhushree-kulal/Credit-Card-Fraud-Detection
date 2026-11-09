@@ -4,3 +4,7 @@ __pycache__/
 venv/
 .env
 .ipynb_checkpoints/
+
+creditcard.csv
+fraud_detection_model.pkl
+random_forest_model.pkl
